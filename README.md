@@ -3,4 +3,4 @@ Play a simple Super Trunfo Game. This little program was created during Imersão
 
 Developed with codepen.
 
-[Project page]()
+[Project page](https://marianazancheta.github.io/superTrunfo/)
